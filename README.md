@@ -10,4 +10,4 @@ Imported Assets Sources:
 - Nice Materials Pack 2: https://assetstore.unity.com/packages/2d/textures-materials/nice-materials-pack-vol-2-67599
 - Nokobot: https://assetstore.unity.com/packages/3d/environments/historic/greek-temple-vases-149134
 - SimpleGridShader: https://assetstore.unity.com/packages/tools/simple-grid-shader-119988
-- Animations: https://www.mixamo.com/#/
+- Animations: https://www.mixamo.com
