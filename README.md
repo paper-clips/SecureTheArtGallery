@@ -1,4 +1,4 @@
-# Secure the Art Gallery
+# Secure The Art Gallery
 
 ![Start screen showing a pixalated painting](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i1.png?raw=true)
 Play the game: link
