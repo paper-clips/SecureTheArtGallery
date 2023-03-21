@@ -1,5 +1,21 @@
 # Secure the Art Gallery
 
+![Start screen showing a pixalated painting](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i1.png?raw=true)
+Play the game: link
+
+## Images from the game:
+### Start screen
+![Start screen showing fallen painting with secret code input](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i9.png?raw=true)
+![Game instructions](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i8.png?raw=true)
+![](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i2.png?raw=true)
+![](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i4.png?raw=true)
+![](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i5.png?raw=true)
+### Mini games
+![](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i3.png?raw=true)
+![](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i6.png?raw=true)
+### End screen
+![](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i7.png?raw=true)
+
 Imported Assets Sources:
 - [3Dfrk](https://assetstore.unity.com/packages/3d/props/interior/picture-frames-with-photos-106907)
 - [Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/wood/wood-pattern-material-170794)
