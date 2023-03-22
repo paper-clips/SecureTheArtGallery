@@ -7,6 +7,7 @@ Play the game: link
 ### Start screen
 ![Start screen showing fallen painting with secret code input](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i9.png?raw=true)
 ![Game instructions](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i8.png?raw=true)
+### In game
 ![](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i2.png?raw=true)
 ![](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i4.png?raw=true)
 ![](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i5.png?raw=true)
