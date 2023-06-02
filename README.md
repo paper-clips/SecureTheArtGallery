@@ -1,23 +1,33 @@
 # Secure The Art Gallery
 
-![Start screen showing a pixalated painting](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i1.png)
-Play the game: [link](https://paper-clips.github.io/SecureTheArtGallery/)
+![Start screen showing a pixalated painting which is the start screen of the game](Game%20Images/i1.png)
 
-## Images from the game:
-### Start screen
-![Start screen showing fallen painting with secret code input](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i9.png)
-![Game instructions](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i8.png?raw=true)
-### In game
-![Vase with light source above it](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i2.png)
-![Thief trying to steal vase](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i4.png)
-![Grid view of the game](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i5.png)
-### Mini games
-![Mini game showing 3 vases](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i3.png)
-![Mini game showing key pad with a piece of paper with code on the left and an id card on the right](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i6.png)
-### End screen
-![End screen of game showing the user their result and seed code](https://github.com/paper-clips/SecureTheArtGallery/blob/main/Game%20Images/i7.png)
+<div align="center">
+  <h3>
+    Play the game: 
+    <a href="https://paper-clips.github.io/SecureTheArtGallery/">link</a>
+  </h3>
+</div>
+<br>
 
-Imported Assets Sources:
+## Start screen
+![Start screen showing fallen painting with secret code input](Game%20Images/i9.png)
+<br><br>
+![Game instructions](Game%20Images/i8.png?raw=true)
+## In game
+![Vase with light source above it](Game%20Images/i2.png)
+<br><br>
+![Thief trying to steal vase](Game%20Images/i4.png)
+<br><br>
+![Grid view of the game](Game%20Images/i5.png)
+## Mini games
+![Mini game showing 3 vases](Game%20Images/i3.png)
+<br><br>
+![Mini game showing key pad with a piece of paper with code on the left and an id card on the right](Game%20Images/i6.png)
+## End screen
+![End screen of game showing the user their result and seed code](Game%20Images/i7.png)
+
+## Imported Assets Sources:
 - [3Dfrk](https://assetstore.unity.com/packages/3d/props/interior/picture-frames-with-photos-106907)
 - [Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/wood/wood-pattern-material-170794)
 - [AssetStoreOriginals](https://assetstore.unity.com/packages/3d/environments/snaps-prototype-office-137490)
