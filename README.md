@@ -1,6 +1,6 @@
 # Secure The Art Gallery
 
-![Start screen showing a pixalated painting which is the start screen of the game](Game%20Images/i1.png)
+![Start screen showing a pixalated painting which is the start screen of the game](GameImages/i1.png)
 
 <div align="center">
   <h3>
@@ -11,21 +11,21 @@
 <br>
 
 ## Start screen
-![Start screen showing fallen painting with secret code input](Game%20Images/i9.png)
+![Start screen showing fallen painting with secret code input](GameImages/i9.png)
 <br><br>
-![Game instructions](Game%20Images/i8.png?raw=true)
+![Game instructions](GameImages/i8.png)
 ## In game
-![Vase with light source above it](Game%20Images/i2.png)
+![Vase with light source above it](GameImages/i2.png)
 <br><br>
-![Thief trying to steal vase](Game%20Images/i4.png)
+![Thief trying to steal vase](GameImages/i4.png)
 <br><br>
-![Grid view of the game](Game%20Images/i5.png)
+![Grid view of the game](GameImages/i5.png)
 ## Mini games
-![Mini game showing 3 vases](Game%20Images/i3.png)
+![Mini game showing 3 vases](GameImages/i3.png)
 <br><br>
-![Mini game showing key pad with a piece of paper with code on the left and an id card on the right](Game%20Images/i6.png)
+![Mini game showing key pad with a piece of paper with code on the left and an id card on the right](GameImages/i6.png)
 ## End screen
-![End screen of game showing the user their result and seed code](Game%20Images/i7.png)
+![End screen of game showing the user their result and seed code](GameImages/i7.png)
 
 ## Imported Assets Sources:
 - [3Dfrk](https://assetstore.unity.com/packages/3d/props/interior/picture-frames-with-photos-106907)
